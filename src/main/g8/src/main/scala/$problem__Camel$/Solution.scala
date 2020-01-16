@@ -2,7 +2,7 @@ package $problem;format="Camel"$
 
 /**
     LeetCode problem solution
-    Name: $name$
+    Name: $problem$
     URL: https://leetcode.com/problems/$problem;format="normalize"$
 */
 object Solution {
