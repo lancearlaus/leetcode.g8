@@ -1,4 +1,4 @@
-package $problem;format=Camel$
+package $problem;format="Camel"$
 
 import org.scalatest.{Matchers, WordSpec}
 

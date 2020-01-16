@@ -1,9 +1,9 @@
-package $problem;format=Camel$
+package $problem;format="Camel"$
 
 /**
     LeetCode problem solution
     Name: $name$
-    URL: https://leetcode.com/problems/$problem;format=normalize$
+    URL: https://leetcode.com/problems/$problem;format="normalize"$
 */
 object Solution {
 
